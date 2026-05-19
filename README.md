@@ -30,16 +30,13 @@ I also work with branding, performance-focused design and interface creation for
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,php,python,javascript,html,css,bootstrap,react,mysql,git,github,vscode,figma,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=java,php,html,css,bootstrap,mysql,vscode,figma,photoshop,illustrator" />
 
 </div>
 
 ---
 
 ## 📌 Featured Projects
-
-### 💻 Financial Control System
-Financial management system with transaction control, balance automation and dashboard.
 
 ### 🌐 Agency Landing Pages
 High conversion landing pages focused on performance and user experience.
@@ -58,17 +55,9 @@ Studies and systems inspired by real business operations and ERP environments.
 FATEC Mogi das Cruzes  
 Currently in the 3rd semester
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrinocen&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinocen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+📚 Systems Development
+ETEC GUAIANAZES
+Finished on dec, 2023
 
 ---
 
