@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner_linkedin_pedro.jpeg" alt="Pedro Inocêncio Banner" width="100%" />
+</p>
+
 <h1 align="center">Pedro Inocêncio</h1>
 
 <p align="center">
@@ -55,9 +59,9 @@ Studies and systems inspired by real business operations and ERP environments.
 FATEC Mogi das Cruzes  
 Currently in the 3rd semester
 
-📚 Systems Development
-ETEC GUAIANAZES
-Finished on dec, 2023
+📚 Systems Development  
+ETEC Guaianazes  
+Finished on Dec, 2023
 
 ---
 
