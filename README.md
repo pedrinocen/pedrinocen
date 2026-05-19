@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner_linkedin_pedro.jpeg" alt="Pedro Inocêncio Banner" width="100%" />
+  <img src="[./Banner_linkedin_pedro.jpeg](https://media.licdn.com/dms/image/v2/D4D16AQH-9NMz1-Z-3Q/profile-displaybackgroundimage-shrink_350_1400/B4DZwoydRwKoAc-/0/1770210843368?e=1780531200&v=beta&t=xNaFvZd1P4_PJM2y4L-_L7BnlEqagLES3eWrQOYz8ic)" alt="Pedro Inocêncio Banner" width="100%" />
 </p>
 
 <h1 align="center">Pedro Inocêncio</h1>
